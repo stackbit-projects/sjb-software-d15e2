@@ -29,5 +29,5 @@ sections:
         url: blog/index.html
         style: button
 layout: advanced
-excerpt: Testing
+excerpt: ''
 ---
