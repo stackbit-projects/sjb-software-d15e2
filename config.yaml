@@ -6,7 +6,7 @@ params:
   palette: blue
   header:
     title: Stackbit Fresh
-    tagline: Header Tagline
+    tagline: DEVELOPMENT AND CONSULTING
     profile_img: images/S_script_beige.png
     background: dark
     has_nav: true
