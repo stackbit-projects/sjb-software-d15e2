@@ -8,7 +8,7 @@ params:
     title: SJB SOFTWARE
     tagline: DEVELOPMENT AND CONSULTING
     profile_img: images/S_script_beige.png
-    background: light
+    background: dark
     has_nav: true
     nav_links:
       - label: Home
