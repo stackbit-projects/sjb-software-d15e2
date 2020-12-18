@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Stackbit Fresh.'
-    content: ''
+    content: SJB Software
   - section_id: about
     type: section_content
     title: About
