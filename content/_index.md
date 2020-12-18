@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: SJB Software
+    title: SJB SOFTWARE
     content: DEVELOPMENT AND CONSULTING
   - section_id: about
     type: section_content
