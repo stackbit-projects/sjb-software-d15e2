@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Fresh.'
+    title: SJB Software
     content: SJB Software
   - section_id: about
     type: section_content
