@@ -7,7 +7,7 @@ params:
   header:
     title: Stackbit Fresh
     tagline: Header Tagline
-    profile_img: images/avatar.png
+    profile_img: images/S_script_beige.png
     background: dark
     has_nav: true
     nav_links:
